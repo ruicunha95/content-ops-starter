@@ -56,7 +56,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 2 Milhões €
-        subtitle: investidos
+        subtitle: Investidos
         text: >+
           Planeamos, lançamos e otimizamos campanhas com foco em retorno. Cada
           decisão é acompanhada por métricas claras, acompanhamento contínuo e
