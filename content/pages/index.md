@@ -9,13 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Fale connosco
     text: >+
-      **Ajudamos marcas a crescer com decisões orientadas por dados, campanhas
-      de paid media, SEO, automação, social media e produção de conteúdo com
-      foco em resultados mensuráveis.**
-
-
-
-
+      Desenhamos e executamos estratégias digitais com foco em aquisição,
+      rentabilidade e escala. Trabalhamos com uma abordagem integrada entre
+      media, conteúdo, dados e otimização contínua para transformar investimento
+      em crescimento real.
 
     actions:
       - label: Get started
