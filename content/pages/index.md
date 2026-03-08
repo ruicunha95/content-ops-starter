@@ -135,7 +135,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Marque uma reunião
         altText: ''
         url: /
         showIcon: false
