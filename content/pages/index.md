@@ -55,7 +55,7 @@ sections:
     subtitle: Estratégia clara, execução rigorosa e decisões suportadas por dados.
     items:
       - type: FeaturedItem
-        title: 2 Milhões
+        title: 2 Milhões €
         subtitle: investidos
         text: >+
           Planeamos, lançamos e otimizamos campanhas com foco em retorno. Cada
