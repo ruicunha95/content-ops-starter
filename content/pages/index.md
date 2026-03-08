@@ -25,7 +25,6 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Captura de ecrã 2026-02-12 101417.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
