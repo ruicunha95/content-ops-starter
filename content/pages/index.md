@@ -55,7 +55,7 @@ sections:
     subtitle: Estratégia clara, execução rigorosa e decisões suportadas por dados.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 2 Milhões
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
