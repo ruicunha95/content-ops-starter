@@ -56,7 +56,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 2 Milhões
-        subtitle: Numbers Done
+        subtitle: investidos
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
