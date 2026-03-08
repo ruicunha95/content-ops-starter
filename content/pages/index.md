@@ -165,9 +165,6 @@ sections:
         textAlign: center
   - subtitle: Marcas que confiam em nós
     images:
-      - url: /images/2.jpg
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
