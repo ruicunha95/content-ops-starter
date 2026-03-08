@@ -57,10 +57,11 @@ sections:
       - type: FeaturedItem
         title: 2 Milhões
         subtitle: investidos
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Planeamos, lançamos e otimizamos campanhas com foco em retorno. Cada
+          decisão é acompanhada por métricas claras, acompanhamento contínuo e
+          melhoria permanente de performance.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
