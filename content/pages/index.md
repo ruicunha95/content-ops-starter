@@ -85,7 +85,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 360º
-        subtitle: The Job Stuff
+        subtitle: Visão estratégica
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
