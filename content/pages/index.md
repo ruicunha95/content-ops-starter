@@ -7,7 +7,7 @@ sections:
       text: Estratégia, performance e crescimento sustentado para o seu negócio
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Fale connosco
     text: >+
       **Ajudamos marcas a crescer com decisões orientadas por dados, campanhas
       de paid media, SEO, automação, social media e produção de conteúdo com
