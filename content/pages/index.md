@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Estratégia clara, execução rigorosa e decisões suportadas por dados.
     items:
       - type: FeaturedItem
         title: 500k
