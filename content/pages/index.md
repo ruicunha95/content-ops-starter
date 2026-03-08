@@ -165,7 +165,7 @@ sections:
         textAlign: center
   - subtitle: Marcas que confiam em nós
     images:
-      - url: /images/vise-logo.svg
+      - url: /images/1.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
