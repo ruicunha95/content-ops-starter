@@ -86,10 +86,11 @@ sections:
               borderRadius: x-large
       - title: 360º
         subtitle: Visão estratégica
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Ligamos estratégia, criatividade, tecnologia e dados para criar um
+          ecossistema digital consistente, capaz de gerar resultados a curto
+          prazo sem comprometer o crescimento futuro.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
