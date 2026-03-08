@@ -15,7 +15,7 @@ sections:
       em crescimento real.
 
     actions:
-      - label: Get started
+      - label: Falar connosco
         altText: ''
         url: /
         showIcon: false
