@@ -183,6 +183,13 @@ sections:
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-dark-fg-light
     styles:
