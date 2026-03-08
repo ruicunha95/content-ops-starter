@@ -84,7 +84,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: '2'
+      - title: 360º
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
