@@ -200,10 +200,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
   - title:
       text: Generic Section With A Form
       color: text-dark
