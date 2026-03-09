@@ -163,28 +163,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Marcas que confiam em nós
-    images:
-      - url: /images/1.jpg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/2.jpg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/3.jpg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/4.jpg
-        altText: Sanity logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
