@@ -207,11 +207,11 @@ sections:
     subtitle: >-
       Vamos falar sobre os objetivos do seu negócio e identificar oportunidades
       de crescimento.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Se procura uma abordagem mais estratégica, orientada por dados e focada em
+      performance, entre em contacto. Teremos todo o gosto em perceber o seu
+      contexto e apresentar uma proposta ajustada às suas necessidades.
+
     media:
       fields:
         - name: name
