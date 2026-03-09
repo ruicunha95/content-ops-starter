@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Falar connosco
         altText: ''
-        url: /
+        url: /form
         showIcon: false
         icon: arrowRight
         iconPosition: right
