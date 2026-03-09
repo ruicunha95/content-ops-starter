@@ -69,12 +69,12 @@ function SearchBox({ enableSearch }) {
     }
     const AutoCompletePosts = getComponent('AutoCompletePosts');
     const searchBoxStyle = {
-        '--aa-text-color-rgb': '2,0,29',
-        '--aa-muted-color-rgb': '2,0,29',
+        '--aa-text-color-rgb': '0,75,87',
+        '--aa-muted-color-rgb': '0,75,87',
         '--aa-muted-color-alpha': 0.5,
-        '--aa-input-border-color-rgb': '2,0,29',
+        '--aa-input-border-color-rgb': '0,75,87',
         '--aa-input-border-color-alpha': 0.25,
-        '--aa-primary-color-rgb': '2,0,29'
+        '--aa-primary-color-rgb': '166,124,82'
     } as React.CSSProperties;
     return (
         <div className="w-full mb-9" style={searchBoxStyle}>
