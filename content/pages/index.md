@@ -182,10 +182,6 @@ sections:
         url: /images/2.jpg
         altText: Telus logo
         elementId: ''
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-        elementId: ''
     elementId: ''
     motion: move-to-left
     colors: bg-light-fg-dark
