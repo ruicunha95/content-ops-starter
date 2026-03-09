@@ -186,10 +186,6 @@ sections:
         url: /images/sanity-logo.svg
         altText: Sanity logo
         elementId: ''
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
     elementId: ''
     motion: move-to-left
     colors: bg-light-fg-dark
