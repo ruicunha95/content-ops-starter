@@ -136,7 +136,7 @@ sections:
     actions:
       - label: Marque uma reunião
         altText: ''
-        url: /
+        url: '#form'
         showIcon: false
         icon: arrowRight
         iconPosition: right
