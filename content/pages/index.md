@@ -28,6 +28,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/abstract-feature2.svg
     badge:
       label: Consultoria de Marketing Digital
       color: text-primary
