@@ -13,7 +13,7 @@ module.exports = {
     theme: {
         extend: {
             boxShadow: {
-                header: '0px 2px 8px rgba(27, 32, 50, .08)'
+                header: '0px 2px 8px rgba(0, 75, 87, .08)'
             },
             colors: {
                 light: themeStyle.light,
