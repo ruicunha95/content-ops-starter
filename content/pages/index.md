@@ -164,7 +164,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Marcas que confiam em nós
     images:
       - type: ImageBlock
         url: /images/1.jpg
