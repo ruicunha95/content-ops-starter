@@ -202,7 +202,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: Marcas que confiam em nós
+      text: ''
       color: text-dark
   - title:
       text: Generic Section With A Form
